@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: de/wpac/netbeans/plugins/workspacefilesview/Bundle.properties
+OpenIDE-Module-Display-Category: Tools
