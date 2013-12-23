@@ -1,4 +1,9 @@
-workspacefilesview
-==================
+workspacefilesview Plugin for Netbeans
+======================================
 
-Showing all files and folders of the project workspace in a separate project node
+Licensed under [MIT Licence].
+
+About
+-----
+
+This plugin adds a 'Workspace View' node to Netbeans projects. The node contains all files and directories of the corresponding workspace, including contents which are usually just accessible over the 'Files' tab.
