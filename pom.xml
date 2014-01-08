@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.wpac</groupId>
   <artifactId>workspacefilesview</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>nbm</packaging>
   <description>Showing all files and folders of the project workspace in a separate project node.</description>
   <dependencies>
